@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a cloud devops engineer with Zadentech. My primary cloud platforms are Azure and AWS.
+I am currently a cloud devops engineer with Distributed UK. My primary cloud platforms are Azure and AWS.
 
 
 ## 🌐 Socials:
