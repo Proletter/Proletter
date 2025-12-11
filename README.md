@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a cloud devops engineer with Distributed UK. My primary cloud platforms are Azure and AWS.
+I am currently a Senior devops engineer with Tether. My primary cloud platforms are Azure and AWS.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ I am currently a cloud devops engineer with Distributed UK. My primary cloud pla
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/seunismaila)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=proletter&icon=0&color=0)](https://visitcount.itsvg.in)
